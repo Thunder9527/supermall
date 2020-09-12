@@ -1,5 +1,7 @@
 # xmgmail
 
+```该项目来自codewhy老师的蘑菇街项目,小白跟着做缝缝补补算完成了```
+
 ## Project setup
 ```
 npm install
